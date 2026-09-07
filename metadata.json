@@ -1,0 +1,6 @@
+{
+  "name": "云养萌宠",
+  "description": "治愈系云养宠物App，支持自定义宠物种类与模型、趣味互动清洁陪伴、日常任务赚装扮币换装、成长可视化图表与暖心萌宠社区交流。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

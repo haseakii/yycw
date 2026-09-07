@@ -1,0 +1,76 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Drop shadow under pet head -->
+    <path
+        android:fillColor="#26D84315"
+        android:pathData="M54,84 C38,84 30,76 30,70 C30,64 38,68 54,68 C70,68 78,64 78,70 C78,76 70,84 54,84 Z" />
+
+    <!-- Left Ear Outer -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,44 L26,24 Q38,26 44,36 Z" />
+    <!-- Left Ear Inner Pink -->
+    <path
+        android:fillColor="#FFAB91"
+        android:pathData="M33,40 L29,27 Q37,29 41,35 Z" />
+
+    <!-- Right Ear Outer -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M74,44 L82,24 Q70,26 64,36 Z" />
+    <!-- Right Ear Inner Pink -->
+    <path
+        android:fillColor="#FFAB91"
+        android:pathData="M75,40 L79,27 Q71,29 67,35 Z" />
+
+    <!-- Head Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,32 C38,32 28,42 28,56 C28,70 39,78 54,78 C69,78 80,70 80,56 C80,42 70,32 54,32 Z" />
+
+    <!-- Left Cheek Blush -->
+    <path
+        android:fillColor="#FFCCBC"
+        android:pathData="M34,60 a4,3 0 1,0 8,0 a4,3 0 1,0 -8,0" />
+    <!-- Right Cheek Blush -->
+    <path
+        android:fillColor="#FFCCBC"
+        android:pathData="M66,60 a4,3 0 1,0 8,0 a4,3 0 1,0 -8,0" />
+
+    <!-- Left Eye (Big cute pupil & sparkle) -->
+    <path
+        android:fillColor="#3E2723"
+        android:pathData="M42,52 a4.5,5.5 0 1,0 9,0 a4.5,5.5 0 1,0 -9,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,49 a1.8,1.8 0 1,0 3.6,0 a1.8,1.8 0 1,0 -3.6,0" />
+
+    <!-- Right Eye (Big cute pupil & sparkle) -->
+    <path
+        android:fillColor="#3E2723"
+        android:pathData="M57,52 a4.5,5.5 0 1,0 9,0 a4.5,5.5 0 1,0 -9,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M59,49 a1.8,1.8 0 1,0 3.6,0 a1.8,1.8 0 1,0 -3.6,0" />
+
+    <!-- Tiny Cute Nose -->
+    <path
+        android:fillColor="#FF7043"
+        android:pathData="M52.5,58 L55.5,58 L54,60.5 Z" />
+
+    <!-- Happy Mouth -->
+    <path
+        android:strokeColor="#5D4037"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M51,62 Q54,65 54,61 Q54,65 57,62" />
+
+    <!-- Cute Heart Badge / Collar at bottom -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M54,77 C54,77 50,73.5 48.5,71 C47,68.5 49,66.5 51.5,67.5 C52.8,68 54,69.5 54,69.5 C54,69.5 55.2,68 56.5,67.5 C59,66.5 61,68.5 59.5,71 C58,73.5 54,77 54,77 Z" />
+</vector>

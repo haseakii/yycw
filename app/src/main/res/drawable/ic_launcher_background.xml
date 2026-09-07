@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="108"
+                android:endY="108"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFF3E0" />
+                <item android:offset="0.4" android:color="#FFCC80" />
+                <item android:offset="1.0" android:color="#FF8A65" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Soft decorative clouds/bubbles in background -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M18,32 a14,14 0 0,1 28,0 a10,10 0 0,1 18,2 a8,8 0 0,1 -4,14 h-40 a8,8 0 0,1 -2,-16 z" />
+    <path
+        android:fillColor="#26FFFFFF"
+        android:pathData="M62,78 a12,12 0 0,1 24,0 a9,9 0 0,1 15,2 a7,7 0 0,1 -3,12 h-34 a7,7 0 0,1 -2,-14 z" />
+</vector>
